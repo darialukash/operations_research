@@ -1,2 +1,2 @@
 # optimization
-Linear Programming, Optimization
+Linear Programming, Operations Research
